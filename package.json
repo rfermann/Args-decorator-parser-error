@@ -1,0 +1,20 @@
+{
+  "name": "Args-decorator-parser-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/parser": "^1.3.0",
+    "eslint": "^5.14.1"
+  },
+  "dependencies": {
+    "type-graphql": "^0.16.0",
+    "typescript": "^3.3.3"
+  }
+}
